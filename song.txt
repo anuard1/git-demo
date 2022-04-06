@@ -6,4 +6,3 @@ from the lines
 shield by shield
 new lines here
 sdfasdfasdf
-anuar
